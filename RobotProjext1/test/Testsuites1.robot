@@ -30,6 +30,8 @@ MySecondTest
     Set Tags    regression3
 MyThirdTest
     Log     3 TEST !!!   
+MyForthTest
+    Log     4 TEST !!! 
 # FirstSeleniumTest
      # Open Browser    https://google.com    chrome
      # Set Browser Implicit Wait    5
